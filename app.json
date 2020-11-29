@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "NotesTimeline",
-    "slug": "NotesTimeline",
+    "name": "FreelasTodo",
+    "slug": "FreelasTodo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
